@@ -29,3 +29,4 @@ Bu Gizlilik Sözleşmesi, 12 maddeden oluşur ve Kullanıcı Sözleşmesi’nin 
 
 ©2025 Sosyal Güvenlik Mobil Uygulaması.
 Tüm hakları saklıdır.
+İletişim: Sosyalguvenlikmobil@gmail.com
