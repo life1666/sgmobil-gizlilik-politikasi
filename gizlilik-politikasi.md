@@ -1,32 +1,58 @@
-Gizlilik Politikası
-Uygulama, Kullanıcı verilerinin güvenliğini ciddiye alır ve 6698 sayılı Kişisel Verilerin Korunması Kanunu’na uygun önlemleri uygular. Kullanıcılar, bu Gizlilik Sözleşmesi’ne uymayı taahhüt eder.
+# Sosyal Güvenlik Mobil – Gizlilik Politikası
 
-Bu Gizlilik Sözleşmesi, Uygulama’nın tüm alanlarında geçerlidir.
+Güncellenme tarihi: Mayıs 2025
 
-Kullanıcı tarafından sağlanan bilgiler, yalnızca Sözleşme’de belirtilen amaçlarla kullanılır ve izinsiz olarak üçüncü taraflarla paylaşılmaz.
+Sosyal Güvenlik Mobil, kullanıcı verilerinin gizliliğini ve güvenliğini ciddiyetle ele alır. Uygulama, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Google Play Geliştirici Politikaları çerçevesinde gerekli önlemleri uygular.
 
-Uygulama, Kullanıcı’nın iletişim bilgileri (e-posta, telefon vb.) üzerinden bilgilendirme, pazarlama veya iletişim faaliyetleri gerçekleştirebilir. Kullanıcı, aksine yazılı bir bildirim yapmadıkça bu faaliyetleri kabul eder.
+## 1. Resmiyet Durumu
 
-Kullanıcı verileri, yalnızca Uygulama’nın amacı doğrultusunda iştirakleriyle paylaşılabilir. Veriler, üçüncü taraflara satılmaz veya izinsiz kullandırılmaz.
+Bu uygulama herhangi bir kamu kurumu, devlet dairesi veya resmi kuruluş tarafından geliştirilmemiştir ve böyle bir kurumla bağlantısı yoktur. Sunulan bilgiler yalnızca genel bilgilendirme amaçlıdır ve resmi belge niteliği taşımaz.
 
-Uygulama, sistem hatalarını çözmek veya istatistiksel analizler yapmak için Kullanıcı’nın IP adresini veya sosyal medya bilgilerini kaydedebilir.
+## 2. Toplanan Veriler
 
-Uygulama’daki üçüncü taraf bağlantılarının gizlilik politikalarından Uygulama sorumlu değildir.
+Uygulama aracılığıyla şu veriler toplanabilir:
+- E-posta adresi (giriş ve iletişim amaçlı)
+- IP adresi (hata takibi ve istatistiksel analizler için)
+- Cihaz bilgileri (versiyon, model – sadece teknik analiz için)
 
-Uygulama, aşağıdaki durumlarda Kullanıcı verilerini üçüncü taraflarla paylaşabilir:
-- Yasal gereklilikler,
-- Sözleşme yükümlülüklerinin yerine getirilmesi,
-- Resmi makamların usulüne uygun talepleri,
-- Kullanıcıların hak ve güvenliğinin korunması gerekliliği.
+Uygulama kredi kartı, kimlik numarası, adres gibi hassas bilgileri toplamaz.
 
-Uygulama, gizli bilgilerin korunması için gerekli tüm önlemleri almayı ve yetkisiz kullanımı veya açıklanmasını engellemeyi taahhüt eder.
+## 3. Verilerin Kullanım Amacı
 
-Uygulama, Kullanıcı bilgilerini, kimlik bilgileri açıklanmadan istatistiksel analizler, pazarlama veya veri tabanı oluşturma amaçlarıyla kullanabilir.
+Toplanan veriler şu amaçlarla kullanılır:
+- Kullanıcı hesabının oluşturulması ve yönetilmesi
+- Şifre sıfırlama taleplerinin karşılanması
+- Kullanıcı taleplerine dönüş yapılması
+- İstatistiksel analiz ve performans geliştirme
 
-Uygulama, Gizlilik Sözleşmesi’ni Uygulama’da duyurarak değiştirebilir. Değişiklikler, duyuru tarihinde yürürlüğe girer.
+## 4. Verilerin Paylaşımı
 
-Bu Gizlilik Sözleşmesi, 12 maddeden oluşur ve Kullanıcı Sözleşmesi’nin ayrılmaz bir parçasıdır.
+Kullanıcı verileri asla satılmaz. Aşağıdaki durumlar dışında üçüncü taraflarla paylaşılmaz:
+- Yasal zorunluluklar (mahkeme/emniyet talepleri)
+- Açık kullanıcı onayı ile
+- Teknik destek amacıyla anonim şekilde (örneğin hata takibi için)
 
-©2025 Sosyal Güvenlik Mobil Uygulaması.
-Tüm hakları saklıdır.
-İletişim: Sosyalguvenlikmobil@gmail.com
+## 5. Verilere Erişim ve Silme Talebi
+
+Kullanıcılar, istedikleri zaman hesaplarını sildirmek ve verilerinin silinmesini talep etmek için şu e-posta adresine başvurabilir:  
+📧 **sosyalguvenlikmobil@gmail.com**
+
+Talep 3 iş günü içinde işleme alınır.
+
+## 6. Güvenlik Önlemleri
+
+Kullanıcı bilgileri, güvenli sunucularda saklanır. Yetkisiz erişime, paylaşım veya kayba karşı teknik ve idari önlemler alınır.
+
+## 7. Üçüncü Taraf Bağlantılar
+
+Uygulama içinde yer alan üçüncü taraf web sitelerinin gizlilik politikalarından geliştirici sorumlu değildir.
+
+## 8. Değişiklik Hakkı
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler uygulama üzerinden veya bağlantı üzerinden duyurulur ve yayınlandığı anda yürürlüğe girer.
+
+---
+
+© 2025 Sosyal Güvenlik Mobil Uygulaması  
+Tüm hakları saklıdır.  
+İletişim: sosyalguvenlikmobil@gmail.com
